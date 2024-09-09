@@ -1,0 +1,79 @@
+Cohort,Litter ID,Condition,Sex,Type,IL-1b_a,IL-1b_b,IL-2_a,IL-2_b,IL-4_a,IL-4_b,IL-6_a,IL-6_b,IL-10_a,IL-10_b,IL-17_a,IL-17_b,IFN-g_a,IFN-g_b,TNF-a_a,TNF-a_b
+1,N1,Nonstressed,Female,Forebrain,0.62,0.000157647,2.99,0.000760267,0,0,0,0,0,0,0,0,0,0,0,0
+1,N2,Nonstressed,Female,Forebrain,1.63,0.000406512,2.66,0.000663387,0,0,0,0,0,0,0,0,0,0,0,0
+1,N3,Nonstressed,Female,Forebrain,1.51,0.0005648,2.47,0.000923878,0,0,0,0,0,0,0,0,0,0,0,0
+1,N4,Nonstressed,Female,Forebrain,0,0,2.53,0.000623594,0,0,0,0,0,0,0,0,0,0,0,0
+1,P1,Prenatally stressed,Female,Forebrain,1.15,0.000310742,1.8,0.000486379,0,0,0,0,0,0,0,0,0,0,0,0
+1,P2,Prenatally stressed,Female,Forebrain,2.31,0.00053159,3.31,0.000761716,0,0,0,0,0,0,0,0,0.1,OOR,0,0
+1,P3,Prenatally stressed,Female,Forebrain,1.39,0.000347902,2,0.000500578,0,0,0,0,0,0,0,0,0,0,0,0
+1,P4,Prenatally stressed,Female,Forebrain,1.63,0.00036022,3.37,0.000744749,0,0,0,0,0,0,0,0,0,0,0,0
+1,N2,Nonstressed,Female,Placenta,0,0,6.47,0.000209603,0,0,2.39,7.74E-05,0,0,0,0,3.01,9.75E-05,0,0
+1,N3,Nonstressed,Female,Placenta,0.89,2.58E-05,15.89,0.000461312,0,0,2.21,6.42E-05,1.15,3.34E-05,0,0,4.91,0.000142545,0,0
+1,N4,Nonstressed,Female,Placenta,1.15,3.61E-05,11.34,0.000355994,0,0,1.91,6.00E-05,3.23,0.000101399,0.06,1.88E-06,4.39,0.000137814,0,0
+1,P1,Prenatally stressed,Female,Placenta,0,0,7.09,0.000310082,0,0,1.2,5.25E-05,1.75,7.65E-05,0.09,3.94E-06,3.53,0.000154385,0,0
+1,P2,Prenatally stressed,Female,Placenta,0,0,3.28,0.000120175,0,0,1.54,5.64E-05,0,0,0,0,0.37,1.36E-05,0,0
+1,P3,Prenatally stressed,Female,Placenta,0,0,4.16,0.000128954,0,0,1.76,5.46E-05,0,0,0,0,2.05,6.35E-05,0,0
+1,P4,Prenatally stressed,Female,Placenta,0,0,3.31,0.000108532,0,0,1.33,4.36E-05,0,0,0,0,2.05,6.72E-05,0,0
+1,N1,Nonstressed,Male,Forebrain,0.34,8.11E-05,2.66,0.000634471,0,0,0,0,0,0,0,0,0,0,0,0
+1,N2,Nonstressed,Male,Forebrain,1.02,0.000240595,3.15,0.000743014,0,0,0,0,0,0,0,0,1,0.000235878,0,0
+1,N3,Nonstressed,Male,Forebrain,2.96,0.000711583,3.85,0.000925539,0,0,0,0,0,0,0,0,0,0,0,0
+1,N4,Nonstressed,Male,Forebrain,1.15,0.000273937,2.79,0.000664595,0,0,0,0,0,0,0,0,0,0,0,0
+1,P1,Prenatally stressed,Male,Forebrain,1.51,0.000380796,2.37,0.000597674,0,0,0,0,0,0,0,0,0,0,0,0
+1,P2,Prenatally stressed,Male,Forebrain,1.75,0.000420557,2.4,0.000576764,0,0,0,0,0,0,0,0,0,0,0,0
+1,P3,Prenatally stressed,Male,Forebrain,2.75,0.00061722,2.73,0.000612731,0,0,0,0,0,0,0,0,0,0,0,0
+1,P4,Prenatally stressed,Male,Forebrain,4.2,0.000842623,4.04,0.000810523,0,0,0,0,0,0,0,0,0,0,0,0
+1,N1,Nonstressed,Male,Placenta,0,0,7.71,0.000240744,0,0,0.87,2.72E-05,0,0,0.06,1.87E-06,2.14,6.68E-05,0,0
+1,N2,Nonstressed,Male,Placenta,0,0,6.56,0.000230168,0,0,1.71,6.00E-05,0,0,0,0,2.4,8.42E-05,0,0
+1,N3,Nonstressed,Male,Placenta,0,0,9.3,0.000321096,0,0,1.82,6.28E-05,0.9,3.11E-05,0,0,2.23,7.70E-05,0,0
+1,N4,Nonstressed,Male,Placenta,0.89,3.22E-05,16.37,0.000592927,0,0,1.85,6.70E-05,4.45,0.000161181,1.5,5.43E-05,6.29,0.000227826,0,0
+1,P1,Prenatally stressed,Male,Placenta,0,0,8.35,0.000332593,0,0,1.56,6.21E-05,0,0,1.07,4.26E-05,3.7,0.000147377,0,0
+1,P2,Prenatally stressed,Male,Placenta,0,0,6.23,0.000179622,0,0,2.09,6.03E-05,0,0,0,0,1.79,5.16E-05,0,0
+1,P3,Prenatally stressed,Male,Placenta,0,0,3.6,0.000135251,0,0,1.54,5.79E-05,0,0,0,0,0.73,2.74E-05,0,0
+1,P4,Prenatally stressed,Male,Placenta,0,0,6.35,0.000220112,0,0,1.39,4.82E-05,0.1,3.47E-06,0.22,7.63E-06,3.36,0.000116469,0,0
+1,N1,Nonstressed,N/A,Maternal Serum,98.93,N/A,46.64,N/A,262.7,N/A,61.01,N/A,254.43,N/A,2561.36,N/A,1174.85,N/A,4510.39,N/A
+1,N2,Nonstressed,N/A,Maternal Serum,46.29,N/A,18.93,N/A,105.64,N/A,21.64,N/A,164.67,N/A,1375.37,N/A,306.44,N/A,1424.59,N/A
+1,N3,Nonstressed,N/A,Maternal Serum,40.45,N/A,14.18,N/A,86.22,N/A,22,N/A,155.83,N/A,1051.35,N/A,274.97,N/A,1346.56,N/A
+1,N4,Nonstressed,N/A,Maternal Serum,25.34,N/A,11.32,N/A,38.64,N/A,16.85,N/A,54.8,N/A,379.38,N/A,154.03,N/A,554.95,N/A
+1,P1,Prenatally stressed,N/A,Maternal Serum,53.51,N/A,22.22,N/A,160.39,N/A,31.12,N/A,192.3,N/A,1596.27,N/A,512.37,N/A,2212.85,N/A
+1,P2,Prenatally stressed,N/A,Maternal Serum,41.85,N/A,16.86,N/A,94.9,N/A,21.39,N/A,135.98,N/A,1301.66,N/A,287.46,N/A,1374.08,N/A
+1,P3,Prenatally stressed,N/A,Maternal Serum,42.93,N/A,13.06,N/A,109.65,N/A,25.54,N/A,137.53,N/A,1330,N/A,332.55,N/A,1621.69,N/A
+1,P4,Prenatally stressed,N/A,Maternal Serum,62.32,N/A,10.72,N/A,155.93,N/A,36.32,N/A,140.96,N/A,1457.12,N/A,485.52,N/A,2305.35,N/A
+2,N1,Nonstressed,Female,Forebrain,6.65,0.001129693,7.47,0.001268994,0,0,0,0,0,0,0,0,0.87,0.000147794,1.67,0.000283697
+2,N2,Nonstressed,Female,Forebrain,5.84,0.00098817,6.95,0.00117599,0,0,0,0,0,0,0,0,0.09,1.52E-05,0.44,7.45E-05
+2,N3,Nonstressed,Female,Forebrain,3.34,0.000723549,6.28,0.001360445,0,0,0,0,0,0,0,0,0,0,0,0
+2,N4,Nonstressed,Female,Forebrain,3.34,0.000677345,4.3,0.000872031,0,0,0,0,0,0,0,0,0,0,0,0
+2,P1,Prenatally stressed,Female,Forebrain,5.49,0.000960397,6.61,0.001156325,0,0,0,0,0,0,0,0,0.73,0.000127703,0.44,7.70E-05
+2,P2,Prenatally stressed,Female,Forebrain,5.38,0.001176479,6.81,0.001489186,0,0,0,0,0,0,0,0,0,0,0,0
+2,P3,Prenatally stressed,Female,Forebrain,4.19,0.000783171,5.61,0.001048589,0,0,0,0,0,0,0,0,0,0,0,0
+2,P4,Prenatally stressed,Female,Forebrain,4.31,0.000797417,5.88,0.001087891,0,0,0,0,0,0,0,0,0,0,0.09,1.67E-05
+2,N2,Nonstressed,Female,Placenta,2.21,4.94E-05,6.28,0.000140355,0,0,0.39,8.72E-06,0,0,1.15,2.57E-05,2.88,6.44E-05,23.79,0.000531694
+2,N3,Nonstressed,Female,Placenta,0.11,2.86E-06,4.79,0.000124372,0,0,0.87,2.26E-05,0,0,0,0,3.42,8.88E-05,17.08,0.000443482
+2,N4,Nonstressed,Female,Placenta,3.95,9.72E-05,3.38,8.31E-05,0,0,0.56,1.38E-05,0,0,0,0,3.01,7.40E-05,16.9,0.000415701
+2,P1,Prenatally stressed,Female,Placenta,0.28,6.59E-06,2.95,6.94E-05,0,0,0.84,1.98E-05,0,0,0,0,2.2,5.18E-05,17.08,0.000401949
+2,P2,Prenatally stressed,Female,Placenta,2.34,6.02E-05,4.37,0.000112495,0,0,1.19,3.06E-05,0,0,0,0,4.38,0.000112752,18.74,0.000482415
+2,P3,Prenatally stressed,Female,Placenta,1.82,4.85E-05,4.23,0.000112817,0,0,1.15,3.07E-05,0,0,0,0,5.48,0.000146156,19.85,0.000529414
+2,P4,Prenatally stressed,Female,Placenta,2.34,5.69E-05,2.88,7.01E-05,0,0,0.82,1.99E-05,0,0,0,0,1.66,4.04E-05,13.82,0.00033619
+2,N1,Nonstressed,Male,Forebrain,7.56,0.002124141,15.92,0.004473059,0,0,0,0,0,0,0,0,1.4,0.000393359,7.71,0.002166287
+2,N2,Nonstressed,Male,Forebrain,5.49,0.001104688,5.88,0.001183163,0,0,0,0,0,0,0,0,0,0,0,0
+2,N3,Nonstressed,Male,Forebrain,6.19,0.001234453,7.74,0.001543565,0,0,0,0,0,0,0,0,0,0,0,0
+2,N4,Nonstressed,Male,Forebrain,5.73,0.001277115,6.14,0.001368497,0,0,0,0,0,0,0,0,0,0,0,0
+2,P1,Prenatally stressed,Male,Forebrain,7.11,0.001226325,7.74,0.001334987,0,0,0,0,0,0,0,0,0,0,0.83,0.000143158
+2,P2,Prenatally stressed,Male,Forebrain,4.07,0.000875897,6.41,0.001379485,0,0,0,0,0,0,0,0,0,0,0,0
+2,P3,Prenatally stressed,Male,Forebrain,3.34,0.000564048,3.74,0.000631599,0,0,0,0,0,0,0,0,0,0,0,0
+2,P4,Prenatally stressed,Male,Forebrain,2.08,0.000424021,3.24,0.000660495,0,0,0,0,0,0,0,0,0,0,0,0
+2,N1,Nonstressed,Male,Placenta,2.34,4.44E-05,7.08,0.000134375,0,0,0.24,4.56E-06,0,0,0,0,2.88,5.47E-05,14.9,0.000282796
+2,N2,Nonstressed,Male,Placenta,1.15,2.97E-05,2.14,5.52E-05,0,0,0.42,1.08E-05,0,0,0,0,2.47,6.37E-05,13.28,0.000342521
+2,N3,Nonstressed,Male,Placenta,2.21,5.67E-05,5.88,0.000150831,0,0,0.48,1.23E-05,0,0,0,0,3.29,8.44E-05,17.45,0.00044762
+2,N4,Prenatally stressed,Male,Placenta,0,0,2.52,5.58E-05,0,0,0.37,8.19E-06,0,0,0,0,3.29,7.28E-05,13.46,0.000298026
+2,P1,Prenatally stressed,Male,Placenta,0,0,3.46,8.32E-05,0,0,0.44,1.06E-05,0,0,0,0,2.34,5.62E-05,13.28,0.00031923
+2,P2,Prenatally stressed,Male,Placenta,0.87,2.29E-05,4.16,0.000109645,0,0,0.86,2.27E-05,0,0,0,0,4.65,0.00012256,17.45,0.000459929
+2,P3,Prenatally stressed,Male,Placenta,2.59,5.49E-05,3.1,6.57E-05,0,0,0.32,6.79E-06,0,0,0,0,1.4,2.97E-05,14.36,0.000304566
+2,N1,Nonstressed,N/A,Maternal Serum,28.35,N/A,29.25,N/A,82.32,N/A,10.73,N/A,91.3,N/A,359.97,N/A,258.9,N/A,1128.22,N/A
+2,N2,Nonstressed,N/A,Maternal Serum,119.82,N/A,73.02,N/A,71.49,N/A,25.52,N/A,216.28,N/A,142.62,N/A,292.35,N/A,691.02,N/A
+2,N3,Nonstressed,N/A,Maternal Serum,25.72,N/A,20.21,N/A,98.13,N/A,7.77,N/A,98.7,N/A,383.74,N/A,211.2,N/A,1005.45,N/A
+2,N4,Nonstressed,N/A,Maternal Serum,138.18,N/A,85.93,N/A,81.57,N/A,26.75,N/A,230.56,N/A,236.69,N/A,322.04,N/A,871.55,N/A
+2,N5,Nonstressed,N/A,Maternal Serum,87.88,N/A,58.15,N/A,64.98,N/A,20.62,N/A,166.87,N/A,168.55,N/A,254.44,N/A,587.51,N/A
+2,P1,Prenatally stressed,N/A,Maternal Serum,125.97,N/A,62.69,N/A,68.51,N/A,28.36,N/A,199.34,N/A,147.44,N/A,299.28,N/A,710.84,N/A
+2,P2,Prenatally stressed,N/A,Maternal Serum,120.22,N/A,88.85,N/A,78.18,N/A,24.98,N/A,204.76,N/A,158.55,N/A,274.7,N/A,861.77,N/A
+2,P3,Prenatally stressed,N/A,Maternal Serum,67,N/A,61.22,N/A,79.12,N/A,24.99,N/A,174.41,N/A,145.97,N/A,229.83,N/A,771.83,N/A
+2,P4,Prenatally stressed,N/A,Maternal Serum,98.85,N/A,38.78,N/A,67.52,N/A,17.2,N/A,185.98,N/A,166.37,N/A,234.95,N/A,729.7,N/A
